@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Categories on HyperTars&#39; Blog</title>
-    <link>blog.hypertars.com/categories/</link>
+    <link>https://blog.hypertars.com/categories/</link>
     <description>Recent content in Categories on HyperTars&#39; Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 02 May 2021 10:41:32 +0800</lastBuildDate><atom:link href="blog.hypertars.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 02 May 2021 10:41:32 +0800</lastBuildDate><atom:link href="https://blog.hypertars.com/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Developer</title>
-      <link>blog.hypertars.com/categories/developer/</link>
+      <link>https://blog.hypertars.com/categories/developer/</link>
       <pubDate>Sun, 02 May 2021 10:41:32 +0800</pubDate>
       
-      <guid>blog.hypertars.com/categories/developer/</guid>
+      <guid>https://blog.hypertars.com/categories/developer/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Distributed System</title>
-      <link>blog.hypertars.com/categories/distributed-system/</link>
+      <link>https://blog.hypertars.com/categories/distributed-system/</link>
       <pubDate>Sun, 02 May 2021 10:41:32 +0800</pubDate>
       
-      <guid>blog.hypertars.com/categories/distributed-system/</guid>
+      <guid>https://blog.hypertars.com/categories/distributed-system/</guid>
       <description></description>
     </item>
     
