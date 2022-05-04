@@ -8,21 +8,21 @@
     <language>en-us</language>
     <lastBuildDate>Mon, 10 May 2021 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.hypertars.com/categories/database/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Data Warehouse: ClickHouse</title>
+      <title>ClickHouse</title>
       <link>https://blog.hypertars.com/posts/developer/database/clickhouse/</link>
       <pubDate>Mon, 10 May 2021 00:00:00 +0800</pubDate>
       
       <guid>https://blog.hypertars.com/posts/developer/database/clickhouse/</guid>
-      <description>A data warehouse clickhouse</description>
+      <description>A data warehouse</description>
     </item>
     
     <item>
-      <title>NoSQL: Apache Cassandra</title>
+      <title>Apache Cassandra</title>
       <link>https://blog.hypertars.com/posts/developer/database/cassandra/</link>
       <pubDate>Sat, 08 May 2021 00:00:00 +0800</pubDate>
       
       <guid>https://blog.hypertars.com/posts/developer/database/cassandra/</guid>
-      <description>A NoSQL Apache Cassandra</description>
+      <description>A NoSQL Database</description>
     </item>
     
   </channel>

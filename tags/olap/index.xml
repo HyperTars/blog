@@ -8,12 +8,12 @@
     <language>en-us</language>
     <lastBuildDate>Mon, 10 May 2021 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.hypertars.com/tags/olap/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Data Warehouse: ClickHouse</title>
+      <title>ClickHouse</title>
       <link>https://blog.hypertars.com/posts/developer/database/clickhouse/</link>
       <pubDate>Mon, 10 May 2021 00:00:00 +0800</pubDate>
       
       <guid>https://blog.hypertars.com/posts/developer/database/clickhouse/</guid>
-      <description>A data warehouse clickhouse</description>
+      <description>A data warehouse</description>
     </item>
     
   </channel>
