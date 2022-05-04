@@ -17,12 +17,12 @@
     </item>
     
     <item>
-      <title>ZAB 分布式原子广播协议</title>
+      <title>ZAB 原子广播协议</title>
       <link>https://blog.hypertars.com/posts/developer/distributed_systems/zab/</link>
       <pubDate>Sun, 02 May 2021 10:41:32 +0800</pubDate>
       
       <guid>https://blog.hypertars.com/posts/developer/distributed_systems/zab/</guid>
-      <description>A distributed consensus algorithm</description>
+      <description>Zookeeper Atomic Broadcast</description>
     </item>
     
     <item>
