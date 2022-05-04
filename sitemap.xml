@@ -5,7 +5,13 @@
     <loc>https://blog.hypertars.com/posts/</loc>
     <lastmod>2022-05-02T22:01:28+08:00</lastmod>
   </url><url>
+    <loc>https://blog.hypertars.com/tags/base/</loc>
+    <lastmod>2022-05-02T22:01:28+08:00</lastmod>
+  </url><url>
     <loc>https://blog.hypertars.com/</loc>
+    <lastmod>2022-05-02T22:01:28+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.hypertars.com/tags/cap/</loc>
     <lastmod>2022-05-02T22:01:28+08:00</lastmod>
   </url><url>
     <loc>https://blog.hypertars.com/categories/</loc>
@@ -29,13 +35,31 @@
     <loc>https://blog.hypertars.com/posts/developer/distributed_systems/</loc>
     <lastmod>2022-05-02T22:01:28+08:00</lastmod>
   </url><url>
+    <loc>https://blog.hypertars.com/tags/distributed-transaction/</loc>
+    <lastmod>2022-05-02T22:01:28+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.hypertars.com/categories/distributed-transaction/</loc>
+    <lastmod>2022-05-02T22:01:28+08:00</lastmod>
+  </url><url>
     <loc>https://blog.hypertars.com/posts/developer/distributed_systems/raft/</loc>
+    <lastmod>2022-05-02T22:01:28+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.hypertars.com/tags/saga/</loc>
     <lastmod>2022-05-02T22:01:28+08:00</lastmod>
   </url><url>
     <loc>https://blog.hypertars.com/tags/</loc>
     <lastmod>2022-05-02T22:01:28+08:00</lastmod>
   </url><url>
+    <loc>https://blog.hypertars.com/tags/tcc/</loc>
+    <lastmod>2022-05-02T22:01:28+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.hypertars.com/tags/xa/</loc>
+    <lastmod>2022-05-02T22:01:28+08:00</lastmod>
+  </url><url>
     <loc>https://blog.hypertars.com/posts/developer/distributed_systems/zab/</loc>
+    <lastmod>2022-05-02T22:01:28+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.hypertars.com/posts/developer/distributed_systems/transaction/</loc>
     <lastmod>2022-05-02T22:01:28+08:00</lastmod>
   </url><url>
     <loc>https://blog.hypertars.com/archives/</loc>

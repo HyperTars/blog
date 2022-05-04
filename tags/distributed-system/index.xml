@@ -25,5 +25,14 @@
       <description>A distributed consensus algorithm</description>
     </item>
     
+    <item>
+      <title>分布式事务</title>
+      <link>https://blog.hypertars.com/posts/developer/distributed_systems/transaction/</link>
+      <pubDate>Sun, 02 May 2021 10:41:32 +0800</pubDate>
+      
+      <guid>https://blog.hypertars.com/posts/developer/distributed_systems/transaction/</guid>
+      <description>Introduction to distributed transactions</description>
+    </item>
+    
   </channel>
 </rss>
