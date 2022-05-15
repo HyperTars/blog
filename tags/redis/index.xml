@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Redis on HyperTars&#39; Blog</title>
+    <link>https://blog.hypertars.com/tags/redis/</link>
+    <description>Recent content in Redis on HyperTars&#39; Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 15 May 2021 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.hypertars.com/tags/redis/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>分布式锁</title>
+      <link>https://blog.hypertars.com/posts/developer/distributed_systems/lock/</link>
+      <pubDate>Sat, 15 May 2021 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.hypertars.com/posts/developer/distributed_systems/lock/</guid>
+      <description>Distributed Lock</description>
+    </item>
+    
+    <item>
+      <title>分布式缓存一致性问题</title>
+      <link>https://blog.hypertars.com/posts/developer/distributed_systems/cache/</link>
+      <pubDate>Tue, 04 May 2021 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.hypertars.com/posts/developer/distributed_systems/cache/</guid>
+      <description>Introduction to distributed cache consistency</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -6,6 +6,15 @@
     <description>Recent content in Developer on HyperTars&#39; Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 15 May 2021 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.hypertars.com/posts/developer/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 01 Nov 2021 00:00:00 +0800</lastBuildDate><atom:link href="https://blog.hypertars.com/posts/developer/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Redis</title>
+      <link>https://blog.hypertars.com/posts/developer/infrastructure/redis/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.hypertars.com/posts/developer/infrastructure/redis/</guid>
+      <description>Redis Architecture</description>
+    </item>
+    
   </channel>
 </rss>
