@@ -53,6 +53,15 @@
     </item>
     
     <item>
+      <title>分布式限流</title>
+      <link>https://blog.hypertars.com/posts/developer/distributed_systems/limiter/</link>
+      <pubDate>Tue, 04 May 2021 00:00:00 +0800</pubDate>
+      
+      <guid>https://blog.hypertars.com/posts/developer/distributed_systems/limiter/</guid>
+      <description>Introduction to distributed rate limiter</description>
+    </item>
+    
+    <item>
       <title>Raft 分布式共识算法</title>
       <link>https://blog.hypertars.com/posts/developer/distributed_systems/raft/</link>
       <pubDate>Sun, 02 May 2021 10:41:32 +0800</pubDate>

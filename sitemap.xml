@@ -86,7 +86,13 @@
     <loc>https://blog.hypertars.com/tags/distributed-cache-consistency/</loc>
     <lastmod>2021-05-04T00:00:00+08:00</lastmod>
   </url><url>
+    <loc>https://blog.hypertars.com/tags/distributed-rate-limiter/</loc>
+    <lastmod>2021-05-04T00:00:00+08:00</lastmod>
+  </url><url>
     <loc>https://blog.hypertars.com/posts/developer/distributed_systems/cache/</loc>
+    <lastmod>2021-05-04T00:00:00+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.hypertars.com/posts/developer/distributed_systems/limiter/</loc>
     <lastmod>2021-05-04T00:00:00+08:00</lastmod>
   </url><url>
     <loc>https://blog.hypertars.com/tags/base/</loc>
